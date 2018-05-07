@@ -1,6 +1,7 @@
-# Docker compose file for elasticsearch and kibana
+## Docker compose file for elasticsearch and kibana
+Elasticsearch installed along with analysis-phonetic plugin
 
-## To start
+### To start
 
 First download and install docker for mac which includes docker-compose. 
 https://docs.docker.com/docker-for-mac/install/
@@ -10,7 +11,7 @@ https://docs.docker.com/docker-for-mac/install/
   > docker-compose up -d
 ```
 
-## To stop
+### To stop
 
 ```bash
   > cd into the elasticsearch folder
