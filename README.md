@@ -2,7 +2,8 @@
 
 ## To start
 
-First download and install docker for mac which includes docker-compose, then
+First download and install docker for mac which includes docker-compose. 
+https://docs.docker.com/docker-for-mac/install/
 
 ```bash
   > cd into the elasticsearch folder
@@ -17,9 +18,9 @@ First download and install docker for mac which includes docker-compose, then
 ```
 
 ### Elasticsearch
-Access Kibana at "http://localhost:5601"
+Access Elasticsearch at http://localhost:9200
 
 ### Kibana
-Access Kibana at "http://localhost:5601"
+Access Kibana at http://localhost:5601
 
 
